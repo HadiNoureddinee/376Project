@@ -28,7 +28,11 @@ You can connect to the API using Postman on  http://localhost:8080
 # Rest API Basic
 
 There are 4 general commands the can be used in a REST API:
+
     GET - Retreive a resource
+    
     PUT - Update a resource
+    
     POST - create a new resource
+    
     Delete - Deleting a resource
